@@ -7,14 +7,21 @@
 ※本人がチーム内の役職：メインプログラマー  
 
 # コンセプト
-・Unreal　Engineの勉強も兼ねて、ローグライク風のゲームを作りたくて、風来のシレンを参考に、仕様確認・設計・実装をしました。　　
+・Unreal　Engineの勉強も兼ねて、ローグライク風のゲームを作りたくて、風来のシレンを参考に、仕様確認・設計・実装をしました。
 
+# プロジェクト構成
+・Project　　　 UEプロジェクトファイル（5.3.2）  
+  ┗　Source　　 プロジェクトソースコード　　
+　実行ファイル
+　┗　Smith.exe  ゲーム実行ファイル　　
+ 鍛冶師と不思議な魔塔プレイ動画.mp4
+ 鍛冶師と不思議な魔塔解説ドキュメント.pdf
+ 
 # ゲーム概要
 ・敵を倒し、武器を強化して塔を登るダンジョン探索ターン制RPGゲームです。　　
 ・5階に到達したらボスと戦うことになります。
 
 # ゲーム動画
-
 
 https://github.com/user-attachments/assets/8439e283-82fd-4911-9057-119648d2c6de
 
@@ -27,5 +34,7 @@ https://github.com/user-attachments/assets/8439e283-82fd-4911-9057-119648d2c6de
 
 # 操作説明
 
-
 ![image](https://github.com/user-attachments/assets/d76f0437-2707-4fd7-af48-485312905e7e)
+![image](https://github.com/user-attachments/assets/3ff015a6-32f7-4e7e-9024-5b71a3d0b118)
+
+
