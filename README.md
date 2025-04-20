@@ -18,3 +18,14 @@
 
 https://github.com/user-attachments/assets/8439e283-82fd-4911-9057-119648d2c6de
 
+# 環境
+・開発言語：C++(バージョン：C++20)　　
+・開発環境：Visual　Studio　Code、Unreal　Engine　5.3.2
+
+# 利用方法
+・実行ファイル/Smith.exeで起動。
+
+# 操作説明
+
+
+![image](https://github.com/user-attachments/assets/d76f0437-2707-4fd7-af48-485312905e7e)
